@@ -1,7 +1,7 @@
 Algoritmo "Placar Times A x B"
 // Disciplina   : [Algoritmo e Estrutura de Dados]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Resultados das partidas de futebol entre as equipes A e B.
+// DescriÃ§Ã£o   : Resultados das partidas de futebol entre as equipes A e B.
 // Autor(a)    : Anelise de Oliveira Dias dos Santos
 // Data atual  : 14/09/2023
 Var
@@ -31,6 +31,6 @@ se(diferenca_gols = 0) entao
        fimse
 fimse
 
-ESCREVAL("SE O SEU TIME FOI COMPEÃO, PARABÉNS!")
+ESCREVAL("SE O SEU TIME FOI COMPEÃƒO, PARABÃ‰NS!")
 
 Fimalgoritmo
